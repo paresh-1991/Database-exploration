@@ -8,6 +8,6 @@ using the sql queries we explore the data.
 
 # Data Cleaning
 
-Using queries to clean the data in SQL
+  Using queries to clean the Nashville housing data in SQL
 
-# creating ER diagram and 3NF relational table from olympics dataset 
+# Creating ER diagram and 3NF relational table from olympics dataset 
