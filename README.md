@@ -34,7 +34,6 @@ using the sql queries we explore the data.
 
 10. Creating View to store data for later visualizations
 
-### Tableau Dashboard Covid Dataset
 
 
 ## Data Cleaning
