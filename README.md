@@ -37,11 +37,11 @@ using the sql queries we explore the data.
 ### Tableau Dashboard Covid Dataset
 
 
-# Data Cleaning
+## Data Cleaning
 
   Using queries to clean the Nashville housing data in SQL
   
-## Nashville housing Cleaning data queries.
+### Nashville housing Cleaning data queries.
 
 1. Standardize Date Format
 
