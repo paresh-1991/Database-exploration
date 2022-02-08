@@ -1,12 +1,18 @@
+# SQL Projects
 
-# Database-exploration
+- Project 1: Explore Data in sql using queries on covid 19 dataset.
+- Project 2: Data cleaning in sql on Nashville Housing data.
+- Project 3: Create SQL database and ER Diagram as well Relational Model. Further data explored using queries.
+NB: These projects are just to show demonstration of my database management and sql queries skills.
+
+## Database-exploration
 
 Here we explore the Database by applying sql queries
 We extracted two tables contaning information regarding Covid deaths and covid vaccinations 
 from original dataset from https://github.com/owid/covid-19-data/tree/master/public/data
 using the sql queries we explore the data.
 
-## Covid19 Data exploration queries
+### Covid19 Data exploration queries
 
 1. Select Data that we are going to be starting with
 
@@ -28,6 +34,8 @@ using the sql queries we explore the data.
 
 10. Creating View to store data for later visualizations
 
+### Tableau Dashboard Covid Dataset
+
 
 # Data Cleaning
 
@@ -47,9 +55,14 @@ using the sql queries we explore the data.
 
 6. Delete Unused Columns
 
-# Creating ER diagram and 3NF relational table from olympics dataset 
+## Olympics dataset 
 
-## Queries for Olympics database:Postgresql database server.
+Steps:
+- Created ER diagram and Relational table model.
+- Build the database
+- Explore data with queries.
+
+### Queries for Olympics database:Postgresql database server.
 
 1. Determine the names and number of categories athletes participated in of all athletes having participated in at least 3 categories at Olympic Games.
 	 A query that uses an aggregate function in the SELECT, a GROUP BY and a HAVING.
